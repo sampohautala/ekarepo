@@ -1,7 +1,7 @@
-#important info
+# important info
 
 Hello,
 
-#here is command for you
+# here is command for you
 
 sudo kys
